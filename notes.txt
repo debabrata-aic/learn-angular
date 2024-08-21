@@ -1,0 +1,7 @@
+ 2 way module ngModel
+ng-content
+pipes
+services
+dependency injection (use get function while replacing @Input)
+
+modules + standalone components (take care of exports as well while nesting modules)
